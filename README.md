@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, Web Technologies, SQL
+**Languages:** Python, Java, Web Technologies, SQL  
 **ML/AI:** TensorFlow, Keras, scikit-learn, Hugging Face  
 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn  
 **Tools:** Docker, GitHub, Jupyter Notebook  
